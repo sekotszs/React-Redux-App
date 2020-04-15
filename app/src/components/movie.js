@@ -1,4 +1,4 @@
-import react,{useState} from "react";
+import React,{useState} from "react";
 
 const Movie = (props) =>{
     return(
@@ -9,3 +9,5 @@ const Movie = (props) =>{
         </div>
     )
 }
+
+export default Movie
